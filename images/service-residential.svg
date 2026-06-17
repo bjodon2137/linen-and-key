@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-label="Residential home cleaning: a bright, spotless living space that feels like coming home to something right">
+  <rect width="600" height="440" fill="#F3EDE1"/>
+  <rect y="346" width="600" height="94" fill="#E7D6BF"/>
+  <rect y="338" width="600" height="10" fill="#F5F1E9"/>
+
+  <!-- house -->
+  <ellipse cx="300" cy="352" rx="220" ry="14" fill="#000" opacity="0.05"/>
+  <rect x="160" y="190" width="280" height="156" fill="#FFFFFF" stroke="#E2E2DA" stroke-width="2"/>
+  <polygon points="140,192 300,96 460,192" fill="#28344A"/>
+  <polygon points="300,96 460,192 430,192 300,118" fill="#1F2A3C"/>
+  <!-- door -->
+  <rect x="278" y="262" width="48" height="84" rx="4" fill="#B79268"/>
+  <circle cx="316" cy="306" r="3" fill="#1F2A3C"/>
+  <!-- windows -->
+  <rect x="196" y="222" width="60" height="56" rx="3" fill="#E6EEF0" stroke="#28344A" stroke-width="4"/>
+  <line x1="226" y1="222" x2="226" y2="278" stroke="#28344A" stroke-width="3"/>
+  <line x1="196" y1="250" x2="256" y2="250" stroke="#28344A" stroke-width="3"/>
+  <rect x="344" y="222" width="60" height="56" rx="3" fill="#E6EEF0" stroke="#28344A" stroke-width="4"/>
+  <line x1="374" y1="222" x2="374" y2="278" stroke="#28344A" stroke-width="3"/>
+  <line x1="344" y1="250" x2="404" y2="250" stroke="#28344A" stroke-width="3"/>
+  <!-- chimney -->
+  <rect x="388" y="120" width="26" height="46" fill="#28344A"/>
+
+  <!-- sparkles -->
+  <path d="M470 150 l8 22 l22 8 l-22 8 l-8 22 l-8 -22 l-22 -8 l22 -8 z" fill="#B79268"/>
+  <path d="M130 250 l5 14 l14 5 l-14 5 l-5 14 l-5 -14 l-14 -5 l14 -5 z" fill="#9AA886"/>
+  <path d="M462 250 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z" fill="#9AA886"/>
+</svg>

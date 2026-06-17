@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="An organized flat-lay of professional cleaning supplies: amber spray bottles, folded microfiber cloths, a scrub brush, rubber gloves, and a checklist">
+  <defs>
+    <linearGradient id="amber" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CE9343"/>
+      <stop offset="1" stop-color="#A5701F"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#F3EDE1"/>
+
+  <!-- two amber spray bottles -->
+  <g transform="translate(110,150)">
+    <rect x="0" y="70" width="92" height="190" rx="16" fill="url(#amber)"/>
+    <rect x="14" y="120" width="64" height="96" rx="6" fill="#E9CFA0" opacity="0.5"/>
+    <path d="M18 70 l56 0 l-8 -26 l-40 0 z" fill="#B98232"/>
+    <rect x="34" y="30" width="24" height="20" fill="#5B6470"/>
+    <path d="M14 30 l44 0 l0 -16 l-30 0 l-14 16 z" fill="#6E7884"/>
+    <rect x="2" y="18" width="20" height="9" rx="3" fill="#5B6470"/>
+  </g>
+  <g transform="translate(238,196)">
+    <rect x="0" y="70" width="84" height="172" rx="15" fill="url(#amber)"/>
+    <rect x="13" y="116" width="58" height="86" rx="6" fill="#E9CFA0" opacity="0.5"/>
+    <path d="M16 70 l52 0 l-7 -24 l-38 0 z" fill="#B98232"/>
+    <rect x="31" y="32" width="22" height="18" fill="#5B6470"/>
+    <path d="M13 32 l40 0 l0 -15 l-28 0 l-12 15 z" fill="#6E7884"/>
+    <rect x="2" y="20" width="18" height="8" rx="3" fill="#5B6470"/>
+  </g>
+
+  <!-- folded microfiber cloths -->
+  <g transform="translate(372,360)">
+    <rect x="0" y="40" width="170" height="46" rx="6" fill="#9AA886"/>
+    <rect x="0" y="40" width="170" height="14" rx="6" fill="#A8B596"/>
+    <line x1="14" y1="64" x2="14" y2="86" stroke="#86977A" stroke-width="2"/>
+    <rect x="10" y="0" width="160" height="44" rx="6" fill="#EFE7D6"/>
+    <rect x="10" y="0" width="160" height="13" rx="6" fill="#F6F0E2"/>
+    <line x1="24" y1="22" x2="24" y2="44" stroke="#DDD3BF" stroke-width="2"/>
+  </g>
+
+  <!-- scrub brush -->
+  <g transform="translate(560,150)">
+    <rect x="0" y="20" width="150" height="34" rx="17" fill="#B79268"/>
+    <rect x="6" y="48" width="120" height="16" rx="6" fill="#8A6A45"/>
+    <g stroke="#6F5436" stroke-width="3" stroke-linecap="round">
+      <line x1="18" y1="64" x2="18" y2="82"/><line x1="34" y1="64" x2="34" y2="82"/>
+      <line x1="50" y1="64" x2="50" y2="82"/><line x1="66" y1="64" x2="66" y2="82"/>
+      <line x1="82" y1="64" x2="82" y2="82"/><line x1="98" y1="64" x2="98" y2="82"/>
+      <line x1="114" y1="64" x2="114" y2="82"/>
+    </g>
+  </g>
+
+  <!-- rubber gloves -->
+  <g transform="translate(590,290)" fill="#9AA886">
+    <path d="M20 40 q-18 0 -18 26 l0 130 q0 24 24 24 l60 0 q24 0 24 -24 l0 -120 q14 -6 14 -22 q0 -16 -14 -16 q0 -18 -16 -18 q0 -20 -18 -20 q-18 0 -18 18 q-18 -8 -18 12 z" />
+    <rect x="2" y="180" width="108" height="20" rx="8" fill="#86977A"/>
+  </g>
+
+  <!-- clipboard checklist -->
+  <g transform="translate(120,452)">
+    <rect x="0" y="0" width="200" height="120" rx="10" fill="#28344A"/>
+    <rect x="14" y="16" width="172" height="92" rx="6" fill="#F8F4EA"/>
+    <rect x="74" y="-8" width="52" height="20" rx="6" fill="#B79268"/>
+    <g>
+      <rect x="28" y="34" width="14" height="14" rx="3" fill="none" stroke="#9AA886" stroke-width="3"/>
+      <path d="M31 41 l4 4 l7 -8" fill="none" stroke="#9AA886" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="52" y1="41" x2="168" y2="41" stroke="#CBC3B2" stroke-width="4" stroke-linecap="round"/>
+      <rect x="28" y="60" width="14" height="14" rx="3" fill="none" stroke="#9AA886" stroke-width="3"/>
+      <path d="M31 67 l4 4 l7 -8" fill="none" stroke="#9AA886" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="52" y1="67" x2="168" y2="67" stroke="#CBC3B2" stroke-width="4" stroke-linecap="round"/>
+      <rect x="28" y="86" width="14" height="14" rx="3" fill="none" stroke="#9AA886" stroke-width="3"/>
+      <line x1="52" y1="93" x2="150" y2="93" stroke="#DDD6C7" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

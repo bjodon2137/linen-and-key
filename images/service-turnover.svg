@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-label="Airbnb and short-term rental turnover cleaning: a freshly made bed prepared guest-ready">
+  <rect width="600" height="440" fill="#F3EDE1"/>
+  <rect y="340" width="600" height="100" fill="#E7D6BF"/>
+  <rect y="332" width="600" height="10" fill="#F5F1E9"/>
+
+  <!-- bed -->
+  <ellipse cx="300" cy="356" rx="240" ry="16" fill="#000" opacity="0.05"/>
+  <rect x="78" y="150" width="70" height="170" rx="10" fill="#28344A"/>
+  <rect x="120" y="250" width="402" height="92" rx="18" fill="#FFFFFF" stroke="#E2E2DA" stroke-width="2"/>
+  <rect x="120" y="300" width="402" height="42" fill="#9AA886"/>
+  <rect x="120" y="300" width="402" height="9" fill="#A8B596"/>
+  <rect x="150" y="214" width="150" height="58" rx="16" fill="#FCFCFA" stroke="#E5E5DD" stroke-width="2"/>
+  <rect x="150" y="214" width="150" height="58" rx="16" fill="none" stroke="#E5E5DD" stroke-width="2"/>
+
+  <!-- fast turnaround badge -->
+  <circle cx="468" cy="150" r="60" fill="#1F2A3C"/>
+  <circle cx="468" cy="150" r="60" fill="none" stroke="#B79268" stroke-width="3"/>
+  <g fill="none" stroke="#F5F1E9" stroke-width="5" stroke-linecap="round">
+    <circle cx="468" cy="150" r="30"/>
+    <line x1="468" y1="150" x2="468" y2="131"/>
+    <line x1="468" y1="150" x2="483" y2="158"/>
+  </g>
+  <path d="M468 70 l30 18 l-30 8 z" fill="#B79268"/>
+
+  <!-- key tag -->
+  <g transform="translate(360,196)">
+    <line x1="0" y1="0" x2="0" y2="-26" stroke="#B79268" stroke-width="3"/>
+    <rect x="-26" y="0" width="52" height="34" rx="8" fill="#B79268"/>
+    <g fill="none" stroke="#F5F1E9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="translate(-8,6)">
+      <circle cx="8" cy="7" r="5"/>
+      <line x1="8" y1="12" x2="8" y2="24"/>
+      <line x1="8" y1="19" x2="14" y2="19"/>
+    </g>
+  </g>
+</svg>

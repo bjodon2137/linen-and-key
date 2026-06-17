@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" role="img" aria-label="Linen and Key logo">
+  <g fill="none" stroke="#F5F1E9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="30" cy="34" r="13"/>
+    <circle cx="30" cy="34" r="4.5" fill="#F5F1E9" stroke="none"/>
+    <line x1="30" y1="47" x2="30" y2="80"/>
+    <line x1="30" y1="64" x2="41" y2="64"/>
+    <line x1="30" y1="72" x2="38" y2="72"/>
+  </g>
+  <path d="M50 14 L52.2 21.8 L60 24 L52.2 26.2 L50 34 L47.8 26.2 L40 24 L47.8 21.8 Z" fill="#C8A578"/>
+  <text x="78" y="46" font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" font-size="40" font-weight="600" letter-spacing="0.5" fill="#F5F1E9">Linen <tspan fill="#C8A578">&amp;</tspan> Key</text>
+  <text x="80" y="72" font-family="'Inter', Arial, sans-serif" font-size="12.5" letter-spacing="3.2" fill="#B9C0CC">AKRON · SUMMIT COUNTY, OH</text>
+</svg>

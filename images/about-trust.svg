@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" role="img" aria-label="A friendly, professional Linen and Key cleaner in a navy polo holding a cleaning caddy at the front door of a Summit County home">
+  <defs>
+    <radialGradient id="glow" cx="0.25" cy="0.2" r="0.9">
+      <stop offset="0" stop-color="#FBF3E2"/>
+      <stop offset="1" stop-color="#ECE3D2"/>
+    </radialGradient>
+    <linearGradient id="caddy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C39A6C"/>
+      <stop offset="1" stop-color="#A87E54"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="560" fill="url(#glow)"/>
+
+  <!-- door + frame behind -->
+  <rect x="372" y="44" width="196" height="516" fill="#F5F1E9"/>
+  <rect x="392" y="64" width="156" height="496" rx="6" fill="#28344A"/>
+  <rect x="410" y="92" width="120" height="150" rx="4" fill="#2C3A53"/>
+  <rect x="410" y="270" width="120" height="220" rx="4" fill="#2C3A53"/>
+  <circle cx="416" cy="330" r="6" fill="#B79268"/>
+  <!-- doormat -->
+  <ellipse cx="300" cy="544" rx="250" ry="20" fill="#000" opacity="0.06"/>
+  <rect x="150" y="528" width="300" height="26" rx="6" fill="#9AA886"/>
+
+  <!-- figure (waist up) -->
+  <!-- caddy in front -->
+  <g>
+    <!-- torso navy polo -->
+    <path d="M150 300 q0 -34 40 -46 l40 -12 q30 -8 60 0 l40 12 q40 12 40 46 l0 234 l-260 0 z" fill="#28344A"/>
+    <!-- collar -->
+    <path d="M260 246 l30 28 l30 -28 l-14 -8 q-16 -6 -32 0 z" fill="#F5F1E9"/>
+    <path d="M283 252 l7 30 l7 -30 z" fill="#28344A"/>
+    <!-- buttons -->
+    <circle cx="290" cy="296" r="2.6" fill="#B79268"/>
+    <circle cx="290" cy="316" r="2.6" fill="#B79268"/>
+    <!-- chest key emblem -->
+    <g fill="none" stroke="#B79268" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="translate(330,300)">
+      <circle cx="6" cy="6" r="5"/>
+      <line x1="6" y1="11" x2="6" y2="24"/>
+      <line x1="6" y1="19" x2="12" y2="19"/>
+    </g>
+    <!-- neck -->
+    <rect x="276" y="222" width="28" height="34" rx="8" fill="#E2B488"/>
+    <!-- head -->
+    <circle cx="290" cy="180" r="50" fill="#E8C49C"/>
+    <!-- hair -->
+    <path d="M240 176 q2 -56 50 -58 q48 2 50 58 q-12 -22 -50 -22 q-38 0 -50 22 z" fill="#4A382B"/>
+    <path d="M240 176 q-6 26 6 44 q-10 -30 -2 -52 z" fill="#4A382B"/>
+    <path d="M340 176 q6 26 -6 44 q10 -30 2 -52 z" fill="#4A382B"/>
+    <!-- face -->
+    <circle cx="272" cy="178" r="3.4" fill="#3A2A1E"/>
+    <circle cx="308" cy="178" r="3.4" fill="#3A2A1E"/>
+    <path d="M276 198 q14 14 28 0" fill="none" stroke="#B07A4E" stroke-width="3" stroke-linecap="round"/>
+    <!-- arm holding caddy -->
+    <path d="M170 318 q-22 60 24 118 l34 -16 q-34 -40 -18 -92 z" fill="#28344A"/>
+    <circle cx="206" cy="438" r="17" fill="#E2B488"/>
+  </g>
+
+  <!-- caddy -->
+  <g>
+    <path d="M150 452 h150 a10 10 0 0 1 10 10 v74 h-170 v-74 a10 10 0 0 1 10 -10 z" fill="url(#caddy)"/>
+    <path d="M160 452 q65 -54 130 0" fill="none" stroke="#A87E54" stroke-width="8" stroke-linecap="round"/>
+    <!-- bottles in caddy -->
+    <rect x="172" y="410" width="34" height="56" rx="6" fill="#9AA886"/>
+    <rect x="180" y="396" width="18" height="18" rx="4" fill="#86977A"/>
+    <rect x="220" y="402" width="34" height="64" rx="6" fill="#F5F1E9" stroke="#D9D2C2" stroke-width="2"/>
+    <rect x="228" y="388" width="18" height="18" rx="4" fill="#C9852F"/>
+    <rect x="268" y="416" width="30" height="50" rx="6" fill="#C9852F"/>
+  </g>
+</svg>

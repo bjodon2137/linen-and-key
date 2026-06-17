@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#28344A"/>
+      <stop offset="1" stop-color="#1F2A3C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.15" r="0.7">
+      <stop offset="0" stop-color="#B79268" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#B79268" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <!-- hairline frame -->
+  <rect x="40" y="40" width="1120" height="550" rx="20" fill="none" stroke="#3a475f" stroke-width="2"/>
+
+  <!-- key + sparkle mark -->
+  <g transform="translate(120,150)">
+    <g fill="none" stroke="#F5F1E9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="40" cy="46" r="26"/>
+      <circle cx="40" cy="46" r="9" fill="#F5F1E9" stroke="none"/>
+      <line x1="40" y1="72" x2="40" y2="150"/>
+      <line x1="40" y1="120" x2="64" y2="120"/>
+      <line x1="40" y1="138" x2="58" y2="138"/>
+    </g>
+    <path d="M96 20 l6 22 l22 6 l-22 6 l-6 22 l-6 -22 l-22 -6 l22 -6 z" fill="#C8A578"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="120" y="380" font-family="'Cormorant Garamond', Georgia, serif" font-size="118" font-weight="700" fill="#F5F1E9">Linen <tspan fill="#C8A578">&amp;</tspan> Key</text>
+
+  <!-- tagline -->
+  <text x="124" y="448" font-family="'Cormorant Garamond', Georgia, serif" font-size="46" font-style="italic" fill="#C8A578">Guest-ready turnovers. Home-ready clean.</text>
+
+  <!-- sub line -->
+  <text x="126" y="512" font-family="'Inter', Arial, sans-serif" font-size="27" letter-spacing="2" fill="#aeb6c2">Airbnb &amp; Home Cleaning · Akron · Summit County, OH</text>
+</svg>

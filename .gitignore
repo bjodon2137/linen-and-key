@@ -1,0 +1,12 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Locked preview renders (unused by the site)
+images/_png/
+
+# Publishing automation (local only — never deploy these)
+*.bat
+*-log.txt
